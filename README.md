@@ -3,7 +3,7 @@
 We need to develop a new system for an airline that enables passengers to make reservations online.
 
 <p align="center">
-  <img src="/Users/echo/Desktop/M1/UML" width="350" title="hover text">
+  <img src="https://github.com/echo751/Flight_Reservation_System_Java/blob/main/UML.png" width="350" title="UML of system">
   
 </p>
 
@@ -41,5 +41,9 @@ Number of reservations for a given destination
 Based on MVC pattern, notre program includes 4 packages: Model that contains all classes and their features, GestionGlobal that contains all methodes for different group( agent/client), GestionDomaine is responsible of the realisation of functions,and VueControlleur renders graphical user interface using SWING components.
 
 
+# Schema for GUI:
 
-
+<p align="center">
+  <img src="https://github.com/echo751/Flight_Reservation_System_Java/blob/main/Schéma%20Graphique.jpg" width="350" title="UML of system">
+  
+</p>
