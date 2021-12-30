@@ -2,6 +2,11 @@
 
 We need to develop a new system for an airline that enables passengers to make reservations online.
 
+<p align="center">
+  <img src="/Users/echo/Desktop/M1/UML" width="350" title="hover text">
+  
+</p>
+
 The passenger has 1 week to validate his reservation, the validation requires the payment of 30% of the total amount. The rest must be paid no later than 1 week before departure. Reservations for which the deposit was not paid on time are deleted.
 
 In case of flight cancellation, the passengers  are informed so that they can approach agency to change their flights. It is necessary to display the names and coordinates of the persons to be contacted.
